@@ -1,0 +1,72 @@
+[
+  {
+    creator: '0x7a554b469E502F94D53fc03d35524275ead598E0',
+    supply: BigNumber { _hex: '0x1e', _isBigNumber: true },
+    metadata: {
+      name: 'ciri',
+      description: 'The Witcher',
+      image: 'https://cloudflare-ipfs.com/ipfs/QmXka4BCNGxDetMXH9ap6fWx8nkFBohCFjTNagLxSjXwJU/0',
+      properties: [Object],
+      id: '0',
+      uri: 'ipfs://QmP1D1TXvjUsL1akR6DYnrxxLLBzAPue26LirtHxnu4Bon/0'
+    },
+    ownedByAddress: BigNumber { _hex: '0x00', _isBigNumber: true },
+    underlyingType: 0
+  },
+  {
+    creator: '0x7a554b469E502F94D53fc03d35524275ead598E0',
+    supply: BigNumber { _hex: '0x0f', _isBigNumber: true },
+    metadata: {
+      name: 'geralt of rivia',
+      description: 'The Witcher',
+      image: 'https://cloudflare-ipfs.com/ipfs/QmXka4BCNGxDetMXH9ap6fWx8nkFBohCFjTNagLxSjXwJU/1',
+      properties: [Object],
+      id: '1',
+      uri: 'ipfs://QmP1D1TXvjUsL1akR6DYnrxxLLBzAPue26LirtHxnu4Bon/1'
+    },
+    ownedByAddress: BigNumber { _hex: '0x00', _isBigNumber: true },
+    underlyingType: 0
+  },
+  {
+    creator: '0x7a554b469E502F94D53fc03d35524275ead598E0',
+    supply: BigNumber { _hex: '0x1e', _isBigNumber: true },
+    metadata: {
+      name: 'Geralt',
+      description: 'The Witcher',
+      image: 'https://cloudflare-ipfs.com/ipfs/QmXka4BCNGxDetMXH9ap6fWx8nkFBohCFjTNagLxSjXwJU/2',
+      properties: [Object],
+      id: '2',
+      uri: 'ipfs://QmP1D1TXvjUsL1akR6DYnrxxLLBzAPue26LirtHxnu4Bon/2'
+    },
+    ownedByAddress: BigNumber { _hex: '0x00', _isBigNumber: true },
+    underlyingType: 0
+  },
+  {
+    creator: '0x7a554b469E502F94D53fc03d35524275ead598E0',
+    supply: BigNumber { _hex: '0x0f', _isBigNumber: true },
+    metadata: {
+      name: 'let the hunt begin',
+      description: 'The Witcher',
+      image: 'https://cloudflare-ipfs.com/ipfs/QmXka4BCNGxDetMXH9ap6fWx8nkFBohCFjTNagLxSjXwJU/3',
+      properties: [Object],
+      id: '3',
+      uri: 'ipfs://QmP1D1TXvjUsL1akR6DYnrxxLLBzAPue26LirtHxnu4Bon/3'
+    },
+    ownedByAddress: BigNumber { _hex: '0x00', _isBigNumber: true },
+    underlyingType: 0
+  }
+]
+[
+{
+  id: '0',
+  metadata: {
+    name: 'The Witcher Pack!',
+    image: 'https://cloudflare-ipfs.com/ipfs/QmRbvzq3QL67SvFBnJCxiRAtJorisYznkzbaLrN5sQr1am/0',
+    id: '0',
+    uri: 'ipfs://QmZNHvdv25fTJBUvVNgPMhSZemiVLmgfe9Qc3tGyh3FMvc/0'
+  },
+  creator: '0x7a554b469E502F94D53fc03d35524275ead598E0',
+  currentSupply: BigNumber { _hex: '0x5a', _isBigNumber: true },
+  openStart: 2022-03-06T18:34:47.000Z
+}
+]

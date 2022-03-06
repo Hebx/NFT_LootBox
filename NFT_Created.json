@@ -1,0 +1,94 @@
+[
+	{
+	  "creator": "0x7a554b469E502F94D53fc03d35524275ead598E0",
+	  "supply": {
+		"type": "BigNumber",
+		"hex": "0x1e"
+	  },
+	  "metadata": {
+		"name": "ciri",
+		"description": "The Witcher",
+		"image": "https://cloudflare-ipfs.com/ipfs/QmXka4BCNGxDetMXH9ap6fWx8nkFBohCFjTNagLxSjXwJU/0",
+		"properties": {
+		  "rarity": "a bit rare",
+		  "fanciness": 7
+		},
+		"id": "0",
+		"uri": "ipfs://QmP1D1TXvjUsL1akR6DYnrxxLLBzAPue26LirtHxnu4Bon/0"
+	  },
+	  "ownedByAddress": {
+		"type": "BigNumber",
+		"hex": "0x00"
+	  },
+	  "underlyingType": 0
+	},
+	{
+	  "creator": "0x7a554b469E502F94D53fc03d35524275ead598E0",
+	  "supply": {
+		"type": "BigNumber",
+		"hex": "0x0f"
+	  },
+	  "metadata": {
+		"name": "geralt of rivia",
+		"description": "The Witcher",
+		"image": "https://cloudflare-ipfs.com/ipfs/QmXka4BCNGxDetMXH9ap6fWx8nkFBohCFjTNagLxSjXwJU/1",
+		"properties": {
+		  "rarity": "super rare!",
+		  "fanciness": 10
+		},
+		"id": "1",
+		"uri": "ipfs://QmP1D1TXvjUsL1akR6DYnrxxLLBzAPue26LirtHxnu4Bon/1"
+	  },
+	  "ownedByAddress": {
+		"type": "BigNumber",
+		"hex": "0x00"
+	  },
+	  "underlyingType": 0
+	},
+	{
+	  "creator": "0x7a554b469E502F94D53fc03d35524275ead598E0",
+	  "supply": {
+		"type": "BigNumber",
+		"hex": "0x1e"
+	  },
+	  "metadata": {
+		"name": "Geralt",
+		"description": "The Witcher",
+		"image": "https://cloudflare-ipfs.com/ipfs/QmXka4BCNGxDetMXH9ap6fWx8nkFBohCFjTNagLxSjXwJU/2",
+		"properties": {
+		  "rarity": "a bit rare",
+		  "fanciness": 7
+		},
+		"id": "2",
+		"uri": "ipfs://QmP1D1TXvjUsL1akR6DYnrxxLLBzAPue26LirtHxnu4Bon/2"
+	  },
+	  "ownedByAddress": {
+		"type": "BigNumber",
+		"hex": "0x00"
+	  },
+	  "underlyingType": 0
+	},
+	{
+	  "creator": "0x7a554b469E502F94D53fc03d35524275ead598E0",
+	  "supply": {
+		"type": "BigNumber",
+		"hex": "0x0f"
+	  },
+	  "metadata": {
+		"name": "let the hunt begin",
+		"description": "The Witcher",
+		"image": "https://cloudflare-ipfs.com/ipfs/QmXka4BCNGxDetMXH9ap6fWx8nkFBohCFjTNagLxSjXwJU/3",
+		"properties": {
+		  "rarity": "super rare!",
+		  "fanciness": 10
+		},
+		"id": "3",
+		"uri": "ipfs://QmP1D1TXvjUsL1akR6DYnrxxLLBzAPue26LirtHxnu4Bon/3"
+	  },
+	  "ownedByAddress": {
+		"type": "BigNumber",
+		"hex": "0x00"
+	  },
+	  "underlyingType": 0
+	}
+  ]
