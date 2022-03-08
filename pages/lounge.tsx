@@ -1,7 +1,7 @@
 export function getStaticProps() {
   return {
     props: {
-      title: "Winner's Lounge",
+      title: "Witcher's Lounge",
     },
   };
 }

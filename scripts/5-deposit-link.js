@@ -1,5 +1,5 @@
 import {ethers} from "ethers";
-import {sdk} from "./helpers";
+import {sdk} from "./helpers.js";
 
 async function main() {
 	const packModuleAddress = "0xdf649cacCEfe10a3697c1942D594Ee5e659f0944";
