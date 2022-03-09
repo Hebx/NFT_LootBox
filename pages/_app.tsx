@@ -1,6 +1,7 @@
 import { ThirdwebProvider } from "@3rdweb/react";
 import { AppProps } from "next/dist/shared/lib/router/router";
 import Head from "next/head";
+import { Toaster } from "react-hot-toast";
 import Layout from "../components/layout";
 import "../styles/globals.css";
 
@@ -14,6 +15,7 @@ export default function MyApp({Component, pageProps}: AppProps) {
 	};
 	return (
 		<>
+		<Toaster/>
 		<Head>
 			<title>{pageProps.title}</title>
 		</Head>

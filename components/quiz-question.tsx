@@ -55,7 +55,7 @@ export default function QuizQuestion({
 
       const payload: CheckAnswerPayload = {
         signedMessage,
-        address,
+        message,
         questionIndex,
         answerIndex,
       };
