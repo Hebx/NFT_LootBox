@@ -11,6 +11,7 @@ type Props = {
 export default function OpenButton({ packModule, afterOpen}: Props)
 {
 	const [opening, setOpening]= useState(false);
+
 	const openPack = async () => {
 		setOpening(true);
 		try {
