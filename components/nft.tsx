@@ -9,7 +9,7 @@ export default function NFT({ metadata}: Props) {
 			<p className="font-medium text-lg">
 				{metadata.name}
 			</p>
-			<img src={metadata.image} alt="metadata.name" className="w-48 h-36 object-cover" />
+			<img className="w-48 h-36 object-cover" src={metadata.image} alt="metadata.name" />
 		</div>
 	)
 }
